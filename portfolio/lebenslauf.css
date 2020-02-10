@@ -152,8 +152,8 @@ h2{
   border: 2px solid black;
   margin: 20px 10px;
   background-image: url("meineimg/header4.jpg");
-  background-attachment: fixed;
-  background-repeat: repeat;
+ background-size: cover
+  background-repeat: no-repeat;
 }
 .column img{
   align-items: center;
