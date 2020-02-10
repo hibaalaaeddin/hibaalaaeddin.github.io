@@ -122,8 +122,9 @@ main{
   margin-right: 500px;
   margin-top: 150px;
   background-image: url("meineimg/header4.jpg");
-  background-attachment: fixed;
-  background-repeat: repeat;
+
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .contact-form {
  
@@ -148,8 +149,8 @@ main{
     margin-right: 500px;
     margin-top: 150px;
     background-image: url("meineimg/header4.jpg");
-    background-attachment: fixed;
-    background-repeat: repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
 
   }
   .contact-info p{
