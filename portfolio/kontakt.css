@@ -1,10 +1,11 @@
 body{
-  max-width:100%px;
+  max-width:100%;
   margin: -4px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-repeat: no-repeat;
-  background-image:  url("meineimg/h2.jpg");
+  background:  url("meineimg/h2.jpg");
   text-align: justify;
+  background-size: cover;
   background-attachment: fixed;
 }
 .container {
@@ -173,10 +174,11 @@ main{
   }
   
   
-.about{
+.about {
   background-image: url("meineimg/header4.jpg");
   border: 3px solid black;
-  background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 h2{
   text-align: center;
