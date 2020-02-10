@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css?family=Molle:400i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Molle:400i&display=swap');
+body{
+    background-color: rgb(236, 190, 216);
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+   
+}
+
+h1{
+    font-size:40px;
+    color: brown;
+    text-align: center;
+    font-family: 'Molle', cursive;
+    }
+    
+footer{
+    color: rgb(53, 53, 107);
+    font-family: 'Molle', cursive;
+}
+p{
+    font-size: 25px;
+}
